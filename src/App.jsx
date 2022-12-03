@@ -1,5 +1,5 @@
 import styles from './style'
-import { Navbar,Hero,Stats,About,Product,CardDeal,Testimonials,Clients,CTA,Footer } from './components';
+import { Navbar,Hero,Stats,About,Product,Variety,Testimonials,Clients,CTA,Footer } from './components';
 const {paddingX, flexCenter,flexStart, boxWidth} = styles;
 
 

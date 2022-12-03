@@ -2,7 +2,7 @@ import Navbar from './Navbar';
 import Product from './Product';
 import About from './About';
 import Button from './Button';
-import CardDeal from './CardDeal';
+import Variety from './Variety';
 import Clients from './Clients';
 import CTA from './CTA';
 import FeedBack from './FeedBack';
@@ -15,7 +15,7 @@ import Footer from './Footer';
 
 export {
     Navbar,Product,About,
-    Button,CardDeal,Clients,
+    Button,Variety,Clients,
     CTA,FeedBack,GetStarted,
     Hero,Stats,Testimonials,
     Footer

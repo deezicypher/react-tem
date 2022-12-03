@@ -1,5 +1,6 @@
 import airbnb from "./airbnb.png";
 import bill from "./try.png";
+import github from "./github.png";
 import binance from "./binance.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
@@ -31,6 +32,7 @@ export {
   deezifilogo,
   airbnb,
   bill,
+  github,
   binance,
   card,
   coinbase,

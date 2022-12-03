@@ -23,9 +23,9 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Your Best benefit",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Use your debit and credit card anywhere in the world, cutting accross multiple wallets and exchanges",
   },
   {
     id: "feature-2",

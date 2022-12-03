@@ -8,7 +8,7 @@ const {paddingY, flexCenter, paragraph, heading2} = styles;
 
 const Testimonials = () => {
   return (
-    <section id="testimonials" className={`${paddingY} ${flexCenter} flex-col relative`} >
+    <section id="clients" className={`${paddingY} ${flexCenter} flex-col relative`} >
       <div />
       <div className='w-full flex justify-between items-center  flex-col
        sm:mb-16 mb-6 relative z-[1]'>

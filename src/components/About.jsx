@@ -29,7 +29,7 @@ const FeatureCard = ({icon,title,content,index}) => (
  
 const About = () => {
   return (
-    <div id="features" className={`${section}`}>
+    <div id="about" className={`${section}`}>
       <div className={sectionInfo}>
         <h2 className={heading2}>
           It's Frictionless <br className='sm:block hidden' />

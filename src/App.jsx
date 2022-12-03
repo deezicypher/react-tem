@@ -1,5 +1,5 @@
 import styles from './style'
-import { Navbar,Hero,Stats,About,Billing,CardDeal,Testimonials,Clients,CTA,Footer } from './components';
+import { Navbar,Hero,Stats,About,Product,CardDeal,Testimonials,Clients,CTA,Footer } from './components';
 const {paddingX, flexCenter,flexStart, boxWidth} = styles;
 
 
@@ -23,7 +23,7 @@ const App = () => (
       <div className={`${boxWidth}`}>
           <Stats/>
           <About/> 
-          <Billing />
+          <Product />
           <CardDeal /> 
           <Testimonials />
           <Clients />

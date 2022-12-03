@@ -1,5 +1,5 @@
 import Navbar from './Navbar';
-import Billing from './Billing';
+import Product from './Product';
 import About from './About';
 import Button from './Button';
 import CardDeal from './CardDeal';
@@ -14,7 +14,7 @@ import Footer from './Footer';
 
 
 export {
-    Navbar,Billing,About,
+    Navbar,Product,About,
     Button,CardDeal,Clients,
     CTA,FeedBack,GetStarted,
     Hero,Stats,Testimonials,

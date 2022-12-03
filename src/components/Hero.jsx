@@ -15,7 +15,8 @@ const Hero = () => {
             of crypto assets
           </h1>
           <p className={`${paragraph} max-w-[470px] mt-5`} >
-            Connecting you to the future of finance
+            Connecting you to the future of finance.Everything you need to accept both Fiat and Crypto Payment Anywhere 
+            in the world
           </p>
          </div>
        

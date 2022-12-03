@@ -18,7 +18,7 @@ const Footer = () => {
         Conecting you to the future of finance
       </p>
       </div>
-      <div className='flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10'>
+      <div className='flex-[1.5]  w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10'>
         {footerLinks.map( footerLink => (
             <div key={footerLink.key} className='flex flex-col ss:my-0 my-4 min-w-[150px]'>
             <h4>
@@ -34,14 +34,17 @@ const Footer = () => {
         ))}
       </div>
       </div>
-      <div className='flex flex-row md:mt-0 mt-6'>
+      <div className='flex border-t-[1px] border-t-[#3f3e45] w-full flex-col md:mt-0 mt-6'>
+        <div className='flex flex-col'>
       <img src={github} alt=""  className='h-[30px] mt-5 object-contain'/>
      
+        
+        <p className='text-center mt-5 text-dimWhite text-[10px]'>DeeziTheViper</p>
         </div>
-        <p className='text-center mt-5 text-dimWhite text-[8px]'>DeeziTheViper</p>
 
       <div className='mt-10 font-poppins font-normal text-center text-[14px] leading-[20px] text-dimWhite'>
         &copy; 2022 DeeziFi. All Rights Reserved
+      </div>
       </div>
       
    </section>

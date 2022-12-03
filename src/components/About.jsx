@@ -26,7 +26,7 @@ const FeatureCard = ({icon,title,content,index}) => (
 
 
 
-
+ 
 const About = () => {
   return (
     <div id="features" className={`${section}`}>

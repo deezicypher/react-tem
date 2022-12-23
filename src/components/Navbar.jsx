@@ -21,7 +21,7 @@ const Navbar = () => {
       <div className='sm:hidden flex flex-1 justify-end items-center'>
           <img 
           src={toggle? close : menu} 
-          alt="Menu" className='h-[20px] object-contain' 
+          alt="Menu" className='h-[30px] object-contain' 
           onClick={() => setToggle(!toggle)}
           />
 

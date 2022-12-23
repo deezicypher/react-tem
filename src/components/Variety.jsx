@@ -13,7 +13,7 @@ const Variety = () => {
     <h2 className={heading2}>Choose from varieties<br className='sm:block hidden'/>
      of Cards in two easy steps</h2>
      <p className={`${paragraph} max-w-[470px] mt-5`}>
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+     Choose from a variety of cards in just two easy steps with our selection tool. With options ranging from classic designs to more modern and contemporary styles, you're sure to find a card that fits your preferences and needs. Simply select your desired card type and customize it with your own personal touch.
      </p>
 
      <Button styles="mt-10" />

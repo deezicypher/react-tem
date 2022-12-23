@@ -1,5 +1,5 @@
 import React from 'react'
-import {cardH,cardsH } from '../assets/images';
+import {cardsH } from '../assets/images';
 import styles from '../style';
 const {paddingY,paddingX, flexStart,paragraph} = styles;
 

@@ -21,7 +21,7 @@ const Hero = () => {
          </div>
        
       </div>
-      <div className={`${paddingX} flex-2 `}>
+      <div className={`${paddingX} flex-2 sm:mt-5 mt-10 mb-10`}>
           <img src={card} alt="" className='w-[800px] relative z-[5]'/>
           <div className='absolute z-[0] w-[40%] h-[35%] top-20 blue__gradient' />
         <div className='absolute z-[2] w-[10%] h-[10%] bottom-0 right-0 green__gradient' />
